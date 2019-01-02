@@ -17,4 +17,4 @@
 |                                                               |
 +---------------------------------------------------------------+
 
-            <code>Developed By nkGhost</code>
+         [+] Coded By A07, FrenchSnake, nkGhosT [+]
